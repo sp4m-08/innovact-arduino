@@ -10,11 +10,23 @@ This project uses an ESP8266 microcontroller to gather data from various health 
 
 Of course, here's that list formatted neatly in markdown.
 
+Got it. Here is the updated section with the deployment link included, formatted nicely for your `README.md` or project documentation.
+
 # Web Dashboard
+
+---
+
+You can view and interact with the live application here:
+
+- **Live Website:** [https://vitalyse-website-frontend-rss4.vercel.app/](https://vitalyse-website-frontend-rss4.vercel.app/)
+
+---
+
+## Project Repositories
 
 - **Frontend:** [vitalyse-website-frontend](https://github.com/sp4m-08/vitalyse-website-frontend)
 - **Backend API:** [vitalyse-website-backend](https://github.com/sp4m-08/vitalyse-website-backend)
-- **Machine Learning Model:** [Link to ML Repository]
+- **Machine Learning Model:** [ML Model](https://github.com/AvanthikaHegde/VitalEyes)
 
 ## Features ✨
 
