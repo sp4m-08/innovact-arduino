@@ -1,12 +1,20 @@
 ---
 # AI Powered Health Asssistant for remtoe patient supervision
 
-This project uses an ESP8266 microcontroller to gather data from various health and environmental sensors and securely publish it to **AWS IoT Core** over MQTT. It's an excellent starting point for building a remote patient monitoring or personal health tracking system.
+This project uses an ESP8266 microcontroller to gather data from various health and environmental sensors and securely publish it to **AWS IoT Core** over MQTT, which is the displayed on our live web dashboard with AI Powered Query response feature.
 ---
 
 # PPT
 
 -Kindly refer to the PPT in the repository.
+
+Of course, here's that list formatted neatly in markdown.
+
+# Web Dashboard
+
+- **Frontend:** [vitalyse-website-frontend](https://github.com/sp4m-08/vitalyse-website-frontend)
+- **Backend API:** [vitalyse-website-backend](https://github.com/sp4m-08/vitalyse-website-backend)
+- **Machine Learning Model:** [Link to ML Repository]
 
 ## Features ✨
 
