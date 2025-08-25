@@ -1,5 +1,5 @@
 ---
-# AI Powered Health Asssistant for remtoe patient supervision
+# AI Powered Health Asssistant for remote patient supervision
 
 This project uses an ESP8266 microcontroller to gather data from various health and environmental sensors and securely publish it to **AWS IoT Core** over MQTT, which is the displayed on our live web dashboard with AI Powered Query response feature.
 ---
