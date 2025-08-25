@@ -4,17 +4,13 @@
 This project uses an ESP8266 microcontroller to gather data from various health and environmental sensors and securely publish it to **AWS IoT Core** over MQTT, which is the displayed on our live web dashboard with AI Powered Query response feature.
 ---
 
-# PPT
+# Presentation (PPT)
 
--Kindly refer to the PPT in the repository.
-
-Of course, here's that list formatted neatly in markdown.
-
-Got it. Here is the updated section with the deployment link included, formatted nicely for your `README.md` or project documentation.
-
-# Web Dashboard
+- **View the Presentation:** [PPT](https://docs.google.com/presentation/d/1-Exbn-udjFnBqynk_dobDQzu84KwANA7/edit?usp=sharing&ouid=103163009577354007191&rtpof=true&sd=true)
 
 ---
+
+# Web Dashboard
 
 You can view and interact with the live application here:
 
@@ -26,9 +22,9 @@ You can view and interact with the live application here:
 
 - **Frontend:** [vitalyse-website-frontend](https://github.com/sp4m-08/vitalyse-website-frontend)
 - **Backend API:** [vitalyse-website-backend](https://github.com/sp4m-08/vitalyse-website-backend)
-- **Machine Learning Model:** [ML Model](https://github.com/AvanthikaHegde/VitalEyes)
+- **Machine Learning Model:** [VitalEyes ML Model](https://github.com/AvanthikaHegde/VitalEyes)
 
-## Features ✨
+## Features
 
 - **Multi-Sensor Data Acquisition:** Collects data from multiple sensors simultaneously.
   - **Heart Rate & SpO2:** Measures pulse and blood oxygen saturation using a MAX30100 sensor.
