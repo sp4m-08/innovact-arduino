@@ -6,7 +6,7 @@ This project uses an ESP8266 microcontroller to gather data from various health 
 
 # Presentation (PPT)
 
-- **View the Presentation:** [PPT](https://docs.google.com/presentation/d/1-Exbn-udjFnBqynk_dobDQzu84KwANA7/edit?usp=sharing&ouid=103163009577354007191&rtpof=true&sd=true)
+- **View the Presentation:** [PPT](https://drive.google.com/file/d/14lUezMo0DRYfbWNOzxxj1X1tuztRL42T/view?usp=sharing)
 
 ---
 
